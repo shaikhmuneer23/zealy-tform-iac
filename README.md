@@ -1,3 +1,10 @@
+
+This is a modified infrastructure based on https://github.com/turnerlabs/terraform-ecs-fargate and modified to suite the architecture for zealy.io. The intended architecture is as follows:
+
+![zealy](cloud.png)
+
+------
+
 # Terraform ECS Fargate
 
 A set of Terraform templates used for provisioning web application stacks on [AWS ECS Fargate][fargate].
